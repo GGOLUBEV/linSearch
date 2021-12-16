@@ -1,6 +1,7 @@
 ﻿//Найти номер первого отрицательного элемента
 
 #include <iostream>
+#include <math.h>
 using namespace std;
 
 
