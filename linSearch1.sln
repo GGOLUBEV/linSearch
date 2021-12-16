@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "linSearch1", "linSearch1\linSearch1.vcxproj", "{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Debug|x64.ActiveCfg = Debug|x64
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Debug|x64.Build.0 = Debug|x64
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Debug|x86.Build.0 = Debug|Win32
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Release|x64.ActiveCfg = Release|x64
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Release|x64.Build.0 = Release|x64
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Release|x86.ActiveCfg = Release|Win32
+		{2B6E81C8-75BE-4C4D-857A-C58F3E436C66}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F25A14-01DA-497F-83A2-87A4968858AF}
+	EndGlobalSection
+EndGlobal
